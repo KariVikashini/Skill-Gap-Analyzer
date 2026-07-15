@@ -1,0 +1,41 @@
+.questions-page{
+    padding:25px;
+    background:#F4F7FC;
+    min-height:100vh;
+}
+
+.questions-header{
+    margin-bottom:25px;
+}
+
+.questions-header h2{
+    font-weight:700;
+    color:#1E293B;
+}
+
+.questions-header p{
+    color:#64748B;
+}
+
+.question-card{
+    background:#fff;
+    border-radius:15px;
+    padding:30px;
+    box-shadow:0 5px 18px rgba(0,0,0,.08);
+}
+
+.question-card label{
+    font-weight:600;
+    margin-bottom:8px;
+}
+
+.question-card input,
+.question-card select,
+.question-card textarea{
+    border-radius:10px;
+}
+
+.question-card .btn{
+    border-radius:10px;
+    padding:10px 25px;
+}

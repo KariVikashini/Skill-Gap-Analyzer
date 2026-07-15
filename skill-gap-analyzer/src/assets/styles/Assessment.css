@@ -1,0 +1,140 @@
+.assessment-container{
+
+    background:#F4F7FC;
+    min-height:100vh;
+    width:100%;
+    padding:35px;
+
+}
+
+.assessment-header{
+
+    margin-bottom:35px;
+
+}
+
+.assessment-header h2{
+
+    font-weight:700;
+
+}
+
+.assessment-header p{
+
+    color:#6b7280;
+
+}
+
+.assessment-card{
+
+    background:white;
+    border-radius:18px;
+    padding:25px;
+    text-align:center;
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+    transition:.3s;
+
+}
+
+.assessment-card:hover{
+
+    transform:translateY(-8px);
+
+}
+
+.assessment-icon{
+
+    width:90px;
+    height:90px;
+    margin:auto;
+    border-radius:50%;
+    color:white;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    margin-bottom:20px;
+
+}
+
+.assessment-card h4{
+
+    font-weight:700;
+    margin-bottom:15px;
+
+}
+
+.assessment-card p{
+
+    min-height:75px;
+    color:#6b7280;
+    font-size:15px;
+
+}
+
+.assessment-card button{
+
+    border-radius:10px;
+}
+.assessment-question-card{
+
+    background:white;
+    border-radius:18px;
+    padding:35px;
+    box-shadow:0 6px 18px rgba(0,0,0,.08);
+    max-width:900px;
+    margin:auto;
+
+}
+
+.assessment-option{
+
+    padding:15px;
+    margin-bottom:15px;
+    border:1px solid #e5e7eb;
+    border-radius:10px;
+    transition:.3s;
+    cursor:pointer;
+
+}
+
+.assessment-option:hover{
+
+    background:#f8f9ff;
+    border-color:#2563EB;
+
+}
+
+.assessment-option input{
+
+    margin-right:12px;
+
+}
+/* Assessment Result */
+
+.result-card{
+
+    background:white;
+    max-width:900px;
+    margin:auto;
+
+    padding:40px;
+
+    border-radius:18px;
+
+    box-shadow:0 8px 20px rgba(0,0,0,.08);
+
+}
+
+.result-card h2{
+
+    font-weight:700;
+
+}
+
+.result-card h5{
+
+    color:#6b7280;
+
+}

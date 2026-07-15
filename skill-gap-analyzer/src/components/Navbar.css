@@ -1,0 +1,23 @@
+.custom-navbar{
+
+    background:#0F172A;
+
+    height:70px;
+
+}
+
+.navbar-brand{
+
+    font-size:24px;
+
+}
+
+.btn-light{
+
+    border-radius:50%;
+
+    width:45px;
+
+    height:45px;
+
+}
